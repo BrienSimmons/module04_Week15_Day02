@@ -1,0 +1,5 @@
+C:\Users\Student-35\Documents\GitHub\module04_Week15_Day02\ATM\obj\Debug\net8.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-35\Documents\GitHub\module04_Week15_Day02\ATM\obj\Debug\net8.0\ATM.AssemblyInfoInputs.cache
+C:\Users\Student-35\Documents\GitHub\module04_Week15_Day02\ATM\obj\Debug\net8.0\ATM.AssemblyInfo.cs
+C:\Users\Student-35\Documents\GitHub\module04_Week15_Day02\ATM\obj\Debug\net8.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Student-35\Documents\GitHub\module04_Week15_Day02\ATM\obj\Debug\net8.0\ATM.sourcelink.json
